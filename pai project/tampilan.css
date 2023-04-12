@@ -1,0 +1,54 @@
+/* Style untuk elemen header */
+header {
+	background-color: #001780;
+	color: #ffffff;
+	padding: 10px;
+}
+
+h1 {
+	margin: 0;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: flex;
+}
+
+nav li {
+	margin: 0 10px;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: black;
+}
+
+/* Strle untuk elemen body*/
+body {
+	background-color: rgb(233, 233, 233);
+}
+
+/* Style untuk elemen main */
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+section {
+	margin-bottom: 50px;
+}
+
+h2 {
+	margin-top: 0;
+}
+
+/* Style untuk elemen footer */
+footer {
+	background-color: #001780;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
